@@ -1,9 +1,9 @@
 ---
 title: Template for Knowledge Base Docs Websites
 ---
-## The index page
+## The Importance of Mentorship
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+At some point in life, everyone comes to a crossroad in which they lose sight or direction. They are often lost or confused and most people do not have anyone to talk to. This is where mentors come in. Mentors are very important as most have been through the same walks in life and are able to help assist when someone gets to that point.
 
 ## Editing pages
 
