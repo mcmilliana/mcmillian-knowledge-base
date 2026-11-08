@@ -1,10 +1,5 @@
-\---
-
+---
 title: Physical Health
+---
 
-\---
-
-
-
-\--Physical Health is needed to ease depression.
-
+--Physical Health can be used as an alternate means to ease depression
