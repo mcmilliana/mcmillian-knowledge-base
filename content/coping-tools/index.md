@@ -2,7 +2,16 @@
 title: Coping Tools
 ---
 
-Description: Gives users practical, step-by-step exercises that can be used immediately. 
+Description: Gives users practical, step-by-step exercises that can be used immediately.
+
+[[breathing techniques]]
+[[journaling]]
+[[physical fitness]]
+[[sensory grounding]]
+[[spirituality]]
+
+
+
 
 ##Related Categories 
 
