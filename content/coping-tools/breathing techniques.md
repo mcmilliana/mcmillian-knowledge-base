@@ -1,0 +1,9 @@
+# Breathing Techniques	
+
+- When a person is met with a mental health crisis, intentional breathing can serve as an immediate psychological reset when panic or acute distress overtakes a person's nervous system. When a person notices rapid, shallow chest breathing, it is danger alerts being sent to the brain, which enables the individual's "fight-or-flight" state. The use of deliberate breathwork stimulates the nervous system, activating the parasympathetic system, which slows the heart rate, lowering blood pressure, and giving the person's prefrontal cortex space to regain clarity.
+
+- Some effective techniques include box breathing, which is inhaling for four seconds, holding for four, exhaling for four, and holding empty for four—to impose a steady rhythm on racing thoughts. Similarly, ### 4-7-8 breathing, (inhaling for four seconds, holding for seven, and exhaling for eight) uses extended exhales to deepen physical relaxation, while the physiological sigh—two quick inhales through the nose followed by one long, slow exhale through the mouth—rapidly offloads carbon dioxide to calm hyperarousal. While breathing methods are not meant to be a substitute for professional crisis care, these methods offer fast, somewhat reliable grounding anywhere and anytime.
+
+### Related Coping Methods
+
+[[sensory grounding]] relies heavily on sense of smell. One redirects cognitive attention to immediate physical surroundings, and the other directly slows physiological arousal. When used in conjunction with one another, they interrupt acute anxiety, panic, or dissociation faster than either method alone.
